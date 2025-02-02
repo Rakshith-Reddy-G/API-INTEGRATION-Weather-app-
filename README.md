@@ -177,3 +177,8 @@ An API-integrated weather app is a practical and engaging project for developers
 
 # output screens :
 
+![Image](https://github.com/user-attachments/assets/91dc4d39-abb0-4c8a-9b18-4f204ab0ab8e)
+
+![Image](https://github.com/user-attachments/assets/ffaa8ec3-309d-4855-b7cb-107c64c87bf3)
+
+![Image](https://github.com/user-attachments/assets/d2c4d790-8a36-40ab-a071-657b3973416e)
